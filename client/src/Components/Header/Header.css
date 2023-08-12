@@ -1,0 +1,19 @@
+.header {
+    width: 100%;
+}
+.img_logo{
+    width: 60px;
+    height: 50px;
+    margin-left: 60px;
+    border-radius: 8px;
+}
+.m-3{
+    font-size: 20px;
+}
+.container_header{
+    display: flex;
+    background-image: linear-gradient(to right, #afc9dd, #7486aa);
+    background-size: 100%;
+    width: 100%;
+}
+

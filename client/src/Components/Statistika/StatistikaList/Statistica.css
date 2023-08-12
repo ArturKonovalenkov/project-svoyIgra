@@ -1,0 +1,76 @@
+.container_statistica{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.name_user{
+    font-size: 30px;
+    text-decoration: solid;
+    margin-bottom:30px ;
+    margin-top: 30px;
+}
+.login{
+    font-size: 40px;
+    color: rgb(66, 66, 85);
+}
+.date{
+    display: flex;
+    justify-content: center;
+}
+
+.table_container{
+    width: 800px;
+
+}
+
+.game{
+    width: 100px;
+    height: 50px;
+    background-image: linear-gradient(to right, #afc9dd, #7486aa);
+    border-radius: 70px;
+    margin-bottom: 30px;
+}
+.text_game{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    
+}
+:link {   
+    text-decoration: none; /* Убрать подчеркивание */
+    color: #000;
+  }
+.stat_all{
+    display: flex;
+    
+    gap: 1rem;
+}
+  .button_stat1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px 10px 0px 0px;
+    border-top: solid 1px rgb(88, 82, 82);
+    border-left: solid 1px rgb(88, 82, 82);
+    border-right: solid 1px rgb(88, 82, 82);
+    color: #000;
+    background-color: rgb(223, 222, 222);
+  }
+  .button_stat2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px 10px 0px 0px;
+    border-top: solid 1px rgb(88, 82, 82);
+    border-left: solid 1px rgb(88, 82, 82);
+    border-right: solid 1px rgb(88, 82, 82);
+    color: #000;
+    background-color: rgb(255, 255, 255);
+  }
+  

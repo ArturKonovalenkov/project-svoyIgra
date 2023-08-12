@@ -1,0 +1,19 @@
+.game-table {
+  /* background: rgb(2, 0, 36) !important;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 39%,
+    rgba(0, 212, 255, 1) 100%
+  ) !important; */
+  background-color: blue;
+}
+
+#root {
+    height: 100vh;
+background-image: url('../public/images/backgraund/MyGame.png');
+background-size: 100%
+}
+.containerAll {
+    height: 80vh;
+}
